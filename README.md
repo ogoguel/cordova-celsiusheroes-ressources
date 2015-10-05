@@ -1,0 +1,1 @@
+# cordova-celsiusheroes-ressources
