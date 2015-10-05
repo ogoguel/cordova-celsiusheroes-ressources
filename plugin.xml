@@ -10,10 +10,10 @@
     </engines>
 
     <platform name="android">
-        <resource-file src="images/notifAndroid.png" target="res/drawable/notifAndroid.png" />
+        <resource-file src="images/notifandroid.png" target="res/drawable/notifandroid.png" />
     </platform>
 
     <platform name="ios">
-        <resource-file src="images/notifiOS.png" />
+        <resource-file src="images/notifios.png" />
     </platform>
 </plugin>
