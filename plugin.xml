@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="com.celsiusonline.celsiusheroes.ressources" version="1.0.0">
+
+    <name>Celsius Heroes Ressources</name>
+    <description>Extra ressources needed for compiling Celsius Heroes using Cocoon.io</description>
+    <license>MIT License (MIT)</license>
+
+    <engines>
+        <engine name="cordova" version=">=3.4.0"/>
+    </engines>
+
+    <platform name="android">
+        <resource-file src="images/notifAndroid.png" target="res/drawable/notifAndroid.png" />
+    </platform>
+
+    <platform name="ios">
+        <resource-file src="images/notifiOS.png" />
+    </platform>
+</plugin>
